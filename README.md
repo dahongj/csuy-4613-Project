@@ -1,3 +1,15 @@
+---
+title: Sentiment Analysis
+emoji: 😻
+colorFrom: red
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.17.0
+app_file: app.py
+pinned: false
+license: unknown
+---
+
 # csuy-4613-Project
 Milestone 1
 
@@ -21,15 +33,4 @@ that the docker is working.
 
 Milestone 2
 
----
-title: Sentiment Analysis
-emoji: 😻
-colorFrom: red
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.17.0
-app_file: app.py
-pinned: false
-license: unknown
----
 
