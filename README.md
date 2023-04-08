@@ -18,3 +18,17 @@ a linux command prompt can be seen, using ~ to accept new commands. Running dock
 that the docker is working.
 
 ![docker](https://user-images.githubusercontent.com/33811542/227808275-baf0dec3-181c-4b04-beeb-b42c35667edb.jpg)
+
+Milestone 2
+
+---
+title: Sentiment Analysis
+emoji: ❤️
+colorFrom: red
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.17.0
+app_file: app.py
+pinned: false
+license: unknown
+---
