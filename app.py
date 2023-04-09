@@ -20,8 +20,9 @@ def rendPage():
     st.text("")
     type = st.selectbox(
         'Choose your model',
-        ('Bertweet'))
+        ('Bertweet','Roberta'))
     st.text("")
+
     if st.button('Calculate'):
         if(userText!="" and type != None):
             st.text
