@@ -1,4 +1,4 @@
 pytorch
 numpy
-streamlit
+streamlpull
 transformers
